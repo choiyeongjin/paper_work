@@ -9,6 +9,7 @@ from IDIM_framework import *
 from pytesseract import *
 
 ## for git
+## git test
 
 def all_close(goal, actual, tolerance):
   all_equal = True
